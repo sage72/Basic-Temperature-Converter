@@ -1,0 +1,32 @@
+#converter{
+    background-color: aqua;
+    margin: auto;
+    text-align: center;
+    width: 400px;
+    padding: 20px;
+    border-radius: 15px;
+    font-size: 1.2em;
+    box-shadow: 5px 5px 15px;
+}
+
+#temp{
+    text-align: center;
+    font-size: 1.5em;
+    color: black;
+}
+
+
+form button{
+    padding: 10px 15px;
+    margin: 15px;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+button:hover{
+    background-color: hsla(0, 0%, 100%, 0.536);
+}
+
+.change{
+    margin-top: 20px;
+}
